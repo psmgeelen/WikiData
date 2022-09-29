@@ -10,4 +10,4 @@ This was a small fun-project, feel free to use it any way you want. I take no re
 contents of this
 repository. 
 
-Sphinx-Documentation can be found here, but is still very much `in progress`
+[Sphinx-Documentation](docs/_build/html/index.html) can be found here, but is still very much `in progress`
